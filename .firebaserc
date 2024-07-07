@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pillwise-backend"
+  },
+  "targets": {
+    "pillwise-backend": {
+      "hosting": {
+        "pillwise-backend": [ 
+          "default"
+        ]
+      }
+    }
+  }
+}
